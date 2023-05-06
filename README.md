@@ -2,7 +2,7 @@
 Image clasifier trained on Cifar 10 and implemented on a microcontroller with a neural accelerator Maxim78000
 
 
-<wip>
+
 Carolina, se me ocurre que sería bueno poner en el repo:
   - Explicar qué hacemos con nuestro cacharro (reconocer imagenes)
   - Arquitectura de nuestro modelo, red neuronal
@@ -11,4 +11,3 @@ Carolina, se me ocurre que sería bueno poner en el repo:
   - Ejemplo de demostración (con un par de fotos basta)
 Y lo que tú digas. Ponemos la presentación pptx tamién?
   
- </wip>
